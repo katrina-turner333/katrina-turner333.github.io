@@ -1,0 +1,21 @@
+
+body {background-color: #89cff1;
+    color: 	black;}
+    
+    h1 {text-align: center;
+    font-family: 'Indie Flower', cursive;}
+    h3 {text-align: center;}
+    h2 {text-align: center;
+    font-family: 'Indie Flower', cursive;}
+    ol {text-align: center;}
+    li {list-style: none;center;}
+    em {font-family: 'Indie Flower', cursive;}
+    .pink-text {color: pink;}
+
+    img {
+      width: 50%;
+      margin: 1px auto;
+      display: block;
+    }
+
+
