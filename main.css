@@ -16,15 +16,17 @@ body {background-color: #89cff1;
       div {
         width: 700px;
         padding: 25px;
-        border: 25px solid navy;
+        border: 5px solid salmon;
         margin: 25px auto;
         display: block;
+        background-color: rgb(240, 202, 221)
       }
 
     img {
       width: 50%;
       margin: 1px auto;
       display: block;
+      border: 5px solid salmon;
     }
 
 
