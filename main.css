@@ -11,6 +11,15 @@ body {background-color: #89cff1;
     li {list-style: none;center;}
     em {font-family: 'Indie Flower', cursive;}
     .pink-text {color: pink;}
+    #purple-text {color: purple;}
+    
+      div {
+        width: 700px;
+        padding: 25px;
+        border: 25px solid navy;
+        margin: 25px auto;
+        display: block;
+      }
 
     img {
       width: 50%;
