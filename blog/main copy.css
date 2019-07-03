@@ -1,0 +1,33 @@
+
+body {background-color: #89cff1;
+    color: 	black;}
+    
+
+    h1 {text-align: center;
+    font-family: 'Indie Flower', cursive;}
+    h3 {text-align: center;}
+    h2 {text-align: center;
+    font-family: 'Indie Flower', cursive;}
+    ol {text-align: center;}
+    li {list-style: none;center;}
+    em {font-family: 'Indie Flower', cursive;}
+    .pink-text {color: pink;}
+    #purple-text {color: purple;}
+    
+      div {
+        width: 700px;
+        padding: 25px;
+        border: 5px solid salmon;
+        margin: 25px auto;
+        display: block;
+        background-color: rgb(240, 202, 221)
+      }
+
+    img {
+      width: 50%;
+      margin: 1px auto;
+      display: block;
+      border: 5px solid salmon;
+    }
+
+
