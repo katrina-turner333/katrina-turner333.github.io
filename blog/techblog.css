@@ -5,10 +5,10 @@ body {background-color: #89cff1;
     }
     h3 {text-align: center;}
     h2 {text-align: center;
-    font-family: 'Indie Flower', cursive;}
+    font-family: 'Montserrat', sans-serif;}
     ol {text-align: center;}
     li {list-style: none;center;}
-    em {font-family: 'Indie Flower', cursive;}
+    em {font-family: 'Montserrat', sans-serif;}
     .pink-text {color: pink;}
     #purple-text {color: purple;}
     
@@ -20,10 +20,24 @@ body {background-color: #89cff1;
         display: block;
         background-color: rgb(240, 202, 221)
       }
-p {font-family: 'Indie Flower', cursive;}
-br {font-family: 'Indie Flower', cursive;}
+p {font-family: 'Montserrat', sans-serif;}
+br {font-family: 'Montserrat', sans-serif;}
 img {
     margin: 1px auto;
     display: block;
   }
    
+  .navbar {
+    overflow: hidden;
+    background-color: rgb(182, 220, 241);
+   
+    top: 0; 
+    width: 100%; 
+  
+  }
+  
+  .navbar a:hover {
+    background: rgb(103, 147, 206);
+    color: black;
+  
+  }
