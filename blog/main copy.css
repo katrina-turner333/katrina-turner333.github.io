@@ -4,16 +4,24 @@ body {background-color: #89cff1;
     
 
     h1 {text-align: center;
-    font-family: 'Indie Flower', cursive;}
+    font-family: 'Montserrat', sans-serif;
+    width: 700px;
+        padding-top: 75px;
+        border: 5px solid salmon;
+        margin: 25px auto;
+        display: block;
+        background-color: rgb(240, 202, 221)
+  }
     h3 {text-align: center;}
     h2 {text-align: center;
-    font-family: 'Indie Flower', cursive;}
+    font-family: 'Montserrat', sans-serif;}
     ol {text-align: center;}
     li {list-style: none;center;}
-    em {font-family: 'Indie Flower', cursive;}
+    em {font-family: 'Montserrat', sans-serif;}
     .pink-text {color: pink;}
     #purple-text {color: purple;}
     
+
       div {
         width: 700px;
         padding: 25px;
@@ -30,4 +38,22 @@ body {background-color: #89cff1;
       border: 5px solid salmon;
     }
 
-
+    .navbar {
+      overflow: hidden;
+      background-color: rgb(182, 220, 241);
+      position: fixed; 
+      top: 0; 
+      width: 100%; 
+    
+    }
+    
+    .navbar a:hover {
+      background: rgb(103, 147, 206);
+      color: black;
+    
+    }
+    
+    .main {
+      margin-top: 30px;
+    
+    }
